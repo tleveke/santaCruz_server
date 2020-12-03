@@ -1,11 +1,11 @@
-# Serveur DizifyMusic
+# Serveur Santa
 
   - Serveur développé avec Java Spring Boot
 
 ### Base de données
 
 - Modifier le application.properties dans le dossier src/main/resources/ avec les identifiants nécessaires pour que le serveur se connecte à votre serveur de base de données
-- Préalabelement créé un database dizifymusic puis importer le fichier bddDizify.sql pour le jeu de données
+- Préalabelement créé un database wishlist puis importer le fichier bddDizify.sql pour le jeu de données
 
 ### Installation
 
@@ -21,7 +21,5 @@
 
 ### Ce qui restait à faire
 
-- Afficher un Top Artiste / Album / Titre en fonction du nombre de Favoris sur la page d’Accueil
-- Afficher une zone de recherche dans le haut du site
-
+- Les traits entre chaque points de l'itinéraire du père noël
 
